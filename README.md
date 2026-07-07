@@ -10,7 +10,7 @@
 
 Eine vollständig virtualisierte Windows-Server-Infrastruktur zur Simulation einer zentral verwalteten Unternehmensumgebung.
 
-Das Projekt wurde im Rahmen meiner Ausbildung zum **Fachinformatiker für Systemintegration** umgesetzt und dokumentiert den Aufbau einer Active-Directory-Domäne innerhalb einer Microsoft-Hyper-V-Umgebung.
+Das Projekt wurde im Rahmen meiner Umschulung zum **Fachinformatiker für Systemintegration** umgesetzt und dokumentiert den Aufbau einer Active-Directory-Domäne innerhalb einer Microsoft-Hyper-V-Umgebung.
 
 ---
 
